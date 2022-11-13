@@ -1,9 +1,10 @@
 {
   "name": "starter-next-js-template",
-  "version": "0.1.0",
-  "private": true,
   "description": "A Mesh starter template",
+  "version": "0.1.0",
+  "private": "true",
   "author": "MartifyLabs",
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
